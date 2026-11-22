@@ -1,0 +1,14 @@
+node_modules/
+auth/
+data/
+.env
+*.log
+bin/ffmpeg
+bin/ffprobe
+*.pre-brand.js
+*.pre-media.js
+*.pre-mail.js
+*.slow.bak.js
+test.js
+patch*.py
+fix-numbers.mjs
