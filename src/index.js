@@ -1,3 +1,4 @@
+import './ping.js';
 import 'dotenv/config';
 import P from 'pino';
 import makeWASocket, { useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion }
